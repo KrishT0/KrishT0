@@ -6,7 +6,7 @@
 
 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Krish_T0) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/jaspergabriel/](https://www.linkedin.com/in/krisht0/)) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/krisht0/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:krshnabiswal619@gmail.com?subject=Hello%20Krishna,%20From%20Github)
 
 </div>
