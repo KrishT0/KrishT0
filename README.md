@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently studying B.Tech Computer Science at Kalinga Institute of Industrial Technology
 - 🌱 I’m passionate about Web Development and Cyber Security.
-- 🏆 I'm striving to increase my GitHub stats rating by contributing to [open source](https://opensource.com/resources/what-open-source).
+- 🏆 I'm currently learning Backend technologies.
 
 <div align="center">
 
