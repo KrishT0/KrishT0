@@ -19,7 +19,7 @@
 
 ## 💻 My Tech Stack:
 
-[![Bash, C++, JavaScript, Node.js, React.js, Express.js, Pug, Tailwind, Material Ui, MongoDB, Linux, NeoVim](https://skillicons.dev/icons?i=bash,cpp,js,nodejs,react,express,pug,tailwind,materialui,mongodb,linux,neovim&perline=6)](https://skillicons.dev)
+[![Bash, C++, JavaScript, Node.js, React.js, Express.js, Python, Tailwind, Material Ui, MongoDB, Linux, NeoVim](https://skillicons.dev/icons?i=bash,cpp,js,nodejs,react,express,python,tailwind,materialui,mongodb,linux,neovim&perline=6)](https://skillicons.dev)
 
 ## 🏆 My Stats:
 
