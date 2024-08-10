@@ -10,9 +10,7 @@
 
 </div>
 
-- 🔭 I’m currently studying B.Tech Computer Science at Kalinga Institute of Industrial Technology
-- 🌱 I’m passionate about Web Development and Cyber Security.
-- 🏆 I'm currently learning Backend technologies.
+<p align="center"><strong>I’m a Full-Stack Developer specializing in React, Node.js, and Python, with expertise in creating scalable, user-friendly web applications. Passionate about collaboration, I’m eager to connect with like-minded professionals to innovate and build impactful solutions.</strong></p>
 
 <div align="center">
 
