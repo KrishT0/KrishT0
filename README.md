@@ -17,7 +17,7 @@
 
 ## 💻 My Tech Stack:
 
-[![C++, JavaScript, TypeScript, Node.js, React.js, Express.js, Python, Tailwind, Material Ui, MongoDB, Linux, AWS](https://skillicons.dev/icons?i=cpp,js,ts,nodejs,react,express,python,tailwind,materialui,mongodb,linux,aws&perline=6)](https://skillicons.dev)
+[![C++, JavaScript, TypeScript, Node.js, React.js, Express.js, Python, Tailwind, Material Ui, MongoDB, Linux, PostgreSQL](https://skillicons.dev/icons?i=cpp,js,ts,nodejs,react,express,python,tailwind,materialui,mongodb,linux,postgresql&perline=6)](https://skillicons.dev)
 
 ## 🏆 My Stats:
 
