@@ -4,7 +4,7 @@ currently a product engineer at [Tata Consultancy Services](https://www.tcs.com/
 
 a few things i've built:
 
-- [Text Keeper](https://text-keeper-phi.vercel.app/): minimalist snippet manager with cloud sync and QR sharing
+- [Text Keeper](https://text-keeper-phi.vercel.app/): snippet manager with cloud sync, AI summarization, QR sharing, and AES-256-GCM encryption
 - [Musixan](https://musixan.vercel.app/): personal music player where you can upload and stream your own songs
 - [HyperType](https://github.com/KrishT0/HyperType): terminal-based typing speed tester with WPM tracking, cross-platform CLI
 - [Password Manager](https://password-manager-frontend-henna.vercel.app/): AES-encrypted credential storage with rate limiting and a strong password generator
